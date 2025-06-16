@@ -479,3 +479,5 @@ Crie um README.md simples explicando como rodar o projeto.
 Com estes blocos de código, você tem um roteiro completo para construir o frontend da sua prova, atendendo a todos os critérios de avaliação.
 
 Este é um excelente exercício para consolidar seus conhecimentos. Boa sorte na sua prova!
+![image](https://github.com/user-attachments/assets/34ec919b-9aac-4493-884a-4dd28fe90be3)
+
